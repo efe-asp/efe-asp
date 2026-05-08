@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/status-active-success.svg?style=flat" alt="Status" />
+  
+  <img src="https://img.shields.io/github/followers/efe-asp?style=flat&logo=github&color=007ec6" alt="Followers" />
+  
+  <img src="https://img.shields.io/github/stars/efe-asp/REPO_ADINI_YAZ?style=flat&logo=github&color=007ec6" alt="Stars" />
+  
+  <img src="https://komarev.com/ghpvc/?username=efe-asp&color=007ec6&label=Profile+Views" alt="Profile Views" />
+</p>
 <br/>
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmRxaGswOHUwNWppZ2pnMHZudWI0ZmNpNTV6MTh0Z3hmZmFzcjVmYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OS9R41QuUqjnwMcqYI/giphy.gif" width="250px" alt="Profile Animation" />
