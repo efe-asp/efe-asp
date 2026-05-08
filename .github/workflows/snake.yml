@@ -1,0 +1,36 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Her gece yarısı otomatik güncellenir
+  workflow_dispatch: # Senin manuel olarak güncellemene izin verir
+  push:
+    branches:
+    - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    
+    steps:
+      - name: Yılan Animasyonunu Üret
+        uses: Platane/snk@v3
+        with:
+          # Kendi kullanıcı adını otomatik alır
+          github_user_name: ${{ github.repository_owner }}
+          # Hem aydınlık hem karanlık tema için iki farklı SVG üretir
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Output dalına gönder (Push)
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          # Üretilen resmi "output" adında yeni bir dalda saklar
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
