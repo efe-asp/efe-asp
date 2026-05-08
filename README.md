@@ -16,9 +16,7 @@
   </picture>
 </div>
 <!-- Hafif ve profesyonel yazı yazma efekti (API kullanılarak) -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=40&lines=S%C3%BCrekli+%C3ö%C4renen+bir+Geli%C5tirici.;.NET+ve+Web+Teknolojilerine+tutkulu." alt="Typing Effect" />
-</div>
+
 
 <br/>
 
