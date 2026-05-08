@@ -1,7 +1,8 @@
 <br/>
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmRxaGswOHUwNWppZ2pnMHZudWI0ZmNpNTV6MTh0Z3hmZmFzcjVmYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OS9R41QuUqjnwMcqYI/giphy.gif" width="400px" alt="Profile Animation" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmRxaGswOHUwNWppZ2pnMHZudWI0ZmNpNTV6MTh0Z3hmZmFzcjVmYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OS9R41QuUqjnwMcqYI/giphy.gif" width="250px" alt="Profile Animation" />
 </div>
+<br/>
 <br/>
 <div align="right">
   <a href="README-en.md">
