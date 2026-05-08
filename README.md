@@ -1,3 +1,8 @@
+<br/>
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmRxaGswOHUwNWppZ2pnMHZudWI0ZmNpNTV6MTh0Z3hmZmFzcjVmYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OS9R41QuUqjnwMcqYI/giphy.gif" width="400px" alt="Profile Animation" />
+</div>
+<br/>
 <div align="right">
   <a href="README-en.md">
     <img alt="English" src="https://img.shields.io/badge/English-Click_Here-blue?style=for-the-badge&logo=googletranslate&logoColor=white">
