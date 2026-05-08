@@ -5,7 +5,16 @@
 </div>
 <!-- Başlığa hafif bir el sallama GIF'i eklendi -->
 <h1 align="center">Merhaba, Ben Efe! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"></h1>
-
+<div align="center">
+  <picture>
+    <!-- Ziyaretçi Dark Mode kullanıyorsa beyaz yazı (FFFFFF) -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=40&lines=S%C3%BCrekli+%C3%B6%C4%9Frenen+bir+Geli%C5%9Ftirici.;.NET+ve+Web+Teknolojilerine+tutkulu.">
+    <!-- Ziyaretçi Light Mode kullanıyorsa siyah yazı (000000) -->
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=000000&center=true&vCenter=true&width=700&height=40&lines=S%C3%BCrekli+%C3%B6%C4%9Frenen+bir+Geli%C5%9Ftirici.;.NET+ve+Web+Teknolojilerine+tutkulu.">
+    <!-- Varsayılan (Yedek) -->
+    <img alt="Typing Effect" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=000000&center=true&vCenter=true&width=700&height=40&lines=S%C3%BCrekli+%C3%B6%C4%9Frenen+bir+Geli%C5%9Ftirici.;.NET+ve+Web+Teknolojilerine+tutkulu.">
+  </picture>
+</div>
 <!-- Hafif ve profesyonel yazı yazma efekti (API kullanılarak) -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=40&lines=S%C3%BCrekli+%C3ö%C4renen+bir+Geli%C5tirici.;.NET+ve+Web+Teknolojilerine+tutkulu." alt="Typing Effect" />
