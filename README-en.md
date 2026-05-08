@@ -4,9 +4,20 @@
   </a>
 </div>
 
-<h1 align="center">Hi there, I'm Efe! 👋</h1>
+<!-- Greeting with subtle waving hand GIF -->
+<h1 align="center">Hi there, I'm Efe! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"></h1>
 
-<h3 align="center">A continuous learner and passionate Developer focused on .NET and Web Technologies.</h3>
+<!-- Subtle and professional Typing Effect (via API) -->
+<div align="center">
+  <picture>
+    <!-- Ziyaretçi Dark Mode kullanıyorsa beyaz yazı (FFFFFF) -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=40&lines=A+continuous+learner+Developer.;Passionate+about+.NET+and+Web+Tech.">
+    <!-- Ziyaretçi Light Mode kullanıyorsa siyah yazı (000000) -->
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=000000&center=true&vCenter=true&width=700&height=40&lines=A+continuous+learner+Developer.;Passionate+about+.NET+and+Web+Tech.">
+    <!-- Varsayılan (Yedek) -->
+    <img alt="Typing Effect" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=000000&center=true&vCenter=true&width=700&height=40&lines=A+continuous+learner+Developer.;Passionate+about+.NET+and+Web+Tech.">
+  </picture>
+</div>
 
 <br/>
 
@@ -27,22 +38,18 @@
 
 ## 🚀 Featured Projects
 
-- **Squad Management System:** A professional C# console application developed with Object-Oriented Programming (OOP) principles, featuring player statistics, Football Manager-style position data, and transfer dynamics for Trabzonspor.
+- **Squad Management System:** A professional C# console application developed with OOP principles, featuring player statistics, FM-style position data, and transfer dynamics for Trabzonspor.
 - **efe.asp:** My personal web/blog project where I apply modern design trends and share CSS tricks.
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=efe-asp&show_icons=true&theme=radium&hide_border=true&v=1" alt="GitHub Stats" />
 <br/>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radium&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=efe-asp&theme=radium&hide_border=true" alt="GitHub Streak" />
 </div>
 <br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=efe-asp&layout=compact&theme=radium&hide_border=true&v=1" alt="Top Languages" />
 
 ## 📫 Contact
 
@@ -50,7 +57,21 @@
   <a href="mailto:your-email@address.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/efe-alsaç-4103aa38a/">
+  <a href="https://linkedin.com/in/your-linkedin-profile">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+</div>
+
+## 🐍 My Development Process & Contribution Map
+
+<div align="center">
+  <p><i>Each green square represents a solved problem, a developed algorithm, or a newly learned technology. My snake feeds on this consistency.</i></p>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/efe-asp/efe-asp/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/efe-asp/efe-asp/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/efe-asp/efe-asp/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
