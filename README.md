@@ -3,7 +3,6 @@
     <img alt="English" src="https://img.shields.io/badge/English-Click_Here-blue?style=for-the-badge&logo=googletranslate&logoColor=white">
   </a>
 </div>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 <!-- Başlığa hafif bir el sallama GIF'i eklendi -->
 <h1 align="center">Merhaba, Ben Efe! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"></h1>
 
