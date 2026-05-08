@@ -4,9 +4,13 @@
   </a>
 </div>
 
-<h1 align="center">Merhaba, Ben Efe! 👋</h1>
+<!-- Başlığa hafif bir el sallama GIF'i eklendi -->
+<h1 align="center">Merhaba, Ben Efe! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"></h1>
 
-<h3 align="center">Sürekli öğrenen, .NET ve Web Teknolojilerine tutkulu bir Geliştirici.</h3>
+<!-- Hafif ve profesyonel yazı yazma efekti (API kullanılarak) -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=40&lines=S%C3%BCrekli+%C3ö%C4renen+bir+Geli%C5tirici.;.NET+ve+Web+Teknolojilerine+tutkulu." alt="Typing Effect" />
+</div>
 
 <br/>
 
@@ -27,12 +31,13 @@
 
 ## 🚀 Öne Çıkan Çalışmalarım
 
-- **Kadro Yönetim Sistemi:** Trabzonspor için oyuncu istatistikleri, FM (Football Manager) tarzı pozisyon verileri ve transfer dinamiklerini içeren, Nesne Yönelimli Programlama (OOP) prensipleriyle geliştirilmiş profesyonel bir C# konsol uygulaması.
+- **Kadro Yönetim Sistemi:** Trabzonspor için oyuncu istatistikleri, FM tarzı pozisyon verileri ve transfer dinamiklerini içeren, OOP prensipleriyle geliştirilmiş C# konsol uygulaması.
 - **efe.asp:** Modern tasarım trendlerini uyguladığım, CSS ipuçlarını barındıran kişisel web/blog projem.
 
 ## 📊 GitHub İstatistiklerim
 
 <div align="center">
+  <!-- Bu kartlar zaten hafif animasyonludur -->
   <img src="https://github-readme-stats.vercel.app/api?username=senin-kullanici-adin&show_icons=true&theme=radium&hide_border=true" alt="GitHub İstatistikleri" />
 </div>
 <br/>
