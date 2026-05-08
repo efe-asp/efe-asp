@@ -64,8 +64,8 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KULLANICI_ADINI_YAZ/KULLANICI_ADINI_YAZ/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KULLANICI_ADINI_YAZ/KULLANICI_ADINI_YAZ/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/KULLANICI_ADINI_YAZ/KULLANICI_ADINI_YAZ/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/efe-asp/efe-asp/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/efe-asp/efe-asp/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/efe-asp/efe-asp/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
