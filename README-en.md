@@ -14,7 +14,7 @@
 
 <div align="right">
   <a href="README.md">
-    <img alt="Turkish" src="https://img.shields.io/badge/Turkish-Click_Here-red?style=for-the-badge&logo=googletranslate&logoColor=white">
+    <img alt="Turkish" src="https://img.shields.io/badge/Türkçe-Buraya_Tıkla-red?style=for-the-badge&logo=googletranslate&logoColor=white">
   </a>
 </div>
 
